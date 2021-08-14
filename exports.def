@@ -1,0 +1,4 @@
+LIBRARY	"plugin_mixed_input"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
